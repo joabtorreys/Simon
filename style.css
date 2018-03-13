@@ -102,5 +102,6 @@ padding: 8px;
 }
 .glow{
 
-  border: 20px solid white;
+  border: 50px solid white;
+  color: white;
 }
