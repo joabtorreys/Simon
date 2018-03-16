@@ -70,7 +70,7 @@ vertical-align: middle;
   font-size: 30px;
   background-color: black;
 }
-.start, .strict{
+.start, .power{
 
 margin: 0px;
 margin-left: 20px;
@@ -80,25 +80,23 @@ height: 55px;
 border: solid 2px black;
 border-radius: 30px;
 color: black;
-font-size: 22px;
+font-size: 10px;
 line-height: 55px;
 }
 .start{
 background-color: blue;
 
 }
-.strict{
-background-color: yellow;
+.power{
+background-color: red;
 
 }
-.power{
-  border: solid 2px black;
-  margin-top: 20px;
-  margin-left: 12px;
-border-radius: 50%;
-background-color: red;
-padding: 8px;
 
+.bottom{
+
+  margin-top: 8px;
+  font-size: 40px;
+  font-weight: bold;
 }
 .glow{
 
